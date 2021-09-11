@@ -8,8 +8,8 @@
 #include <iostream>
 
 int main() {
-  std::cout << "The rectangle's dimensions are:" << std::endl;
-  std::cout << "8cm x 7cm\n" << std::endl;
-  std::cout << "The area is " << 8 * 7 <<  "cm²." << std::endl;
-  std::cout << "The perimeter is " << 2 * (8 + 7) << "cm." << std::endl;
+    std::cout << "The rectangle's dimensions are:" << std::endl;
+    std::cout << "8cm x 7cm\n" << std::endl;
+    std::cout << "The area is " << 8 * 7 <<  "cm²." << std::endl;
+    std::cout << "The perimeter is " << 2 * (8 + 7) << "cm." << std::endl;
 }
